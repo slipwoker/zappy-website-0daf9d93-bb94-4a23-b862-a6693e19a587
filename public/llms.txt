@@ -7,85 +7,85 @@
 ## Pages
 
 ### בית
-https://-0daf9d93.zappy5.app
+https://example.com
 מועדון האוהדים השרוף של הפועל טירת כרמל מזמין אתכם לחוות כדורגל אחרת. עידוד בלתי פוסק, תיפופים, דגלים ואהבה אין-סופית לקבוצה. בואו להיות חלק מהמשפחה הלוהטת ביותר בליגה!
 
 ### אודות
-https://-0daf9d93.zappy5.app/about
+https://example.com/about
 גלו מי אנחנו, מאיפה באנו ומה מניע את קבוצת האוהדים הכי קולנית ומסורה. ערכים של נאמנות, גאווה מקומית ואחוות לוחמים. הכירו את הנשמה של טירת כרמל מאחורי הקבוצה.
 
 ### תרבות
-https://-0daf9d93.zappy5.app/culture
+https://example.com/culture
 צללו לתרבות האולטראס האמיתית: איך אנחנו יוצרים טיפואים מסמרי שיער, כותבים שירים ומפיחים חיים ביציע. מדריך לתרבות רחוב כדורגל שזורמת בעורקים שלנו בכל משחק.
 
 ### גלריה
-https://-0daf9d93.zappy5.app/gallery
+https://example.com/gallery
 צפו בתמונות וסרטונים מהקהל הביתי והחוץ, עשן צבעוני, שלטי ענק ורגעי שיא של אקסטזה. גלריה מתעדכנת שתעביר לכם צמרמורת בכל קליק. תראו איך נראית תמיכה ללא פשרות.
 
 ### צור קשר
-https://-0daf9d93.zappy5.app/contact
+https://example.com/contact
 רוצים להצטרף לשורות הלוחמים, להזמין ציוד או לשתף רעיון לטיפו מטורף? צרו איתנו קשר עכשיו ובואו נדליק את האצטדיון יחד. כל שיחה מתחילה מהפכה חדשה.
 
 ### Cart
-https://-0daf9d93.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-0daf9d93.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-0daf9d93.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-0daf9d93.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-0daf9d93.zappy5.app/order-success
+https://example.com/order-success
 תודה שנרשמת לקורס
 
 ### תודה רבה - פנייתך התקבלה | אולטראס הפועל טירת כרמל
-https://-0daf9d93.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך למועדון האוהדים אולטראס הפועל טירת כרמל. קיבלנו את ההודעה ונחזור אליך בהקדם.
 
 ### Courses
-https://-0daf9d93.zappy5.app/courses
+https://example.com/courses
 Browse all available courses.
 
 ### Course Category
-https://-0daf9d93.zappy5.app/category/:slug
+https://example.com/category/:slug
 Browse courses in this category.
 
 ### Course Detail
-https://-0daf9d93.zappy5.app/courses/:slug
+https://example.com/courses/:slug
 Course details and curriculum.
 
 ### Lesson
-https://-0daf9d93.zappy5.app/lesson/:lessonId
+https://example.com/lesson/:lessonId
 Lesson player.
 
 ### My Learning
-https://-0daf9d93.zappy5.app/my-learning
+https://example.com/my-learning
 Your enrolled courses and progress.
 
 ### Certificate
-https://-0daf9d93.zappy5.app/certificate/:code
+https://example.com/certificate/:code
 Verify a course completion certificate.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-0daf9d93.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-0daf9d93.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-0daf9d93.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -114,8 +114,8 @@ Sports Fan Club
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-0daf9d93.zappy5.app/sitemap.xml
-- Robots: https://-0daf9d93.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-0daf9d93.zappy5.app/llms-full.txt
-- Products (JSON): https://-0daf9d93.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-0daf9d93.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
